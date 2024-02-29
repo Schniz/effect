@@ -1,5 +1,11 @@
 # effect
 
+## 2.4.1
+
+### Patch Changes
+
+- [#2219](https://github.com/Effect-TS/effect/pull/2219) [`a4a0006`](https://github.com/Effect-TS/effect/commit/a4a0006c7f19fc261df5cda16963d73457e4d6ac) Thanks [@KhraksMamtsov](https://github.com/KhraksMamtsov)! - fix documentation for `Predicate.isNull` `Predicate.isNotNull`
+
 ## 2.4.0
 
 ### Minor Changes

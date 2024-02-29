@@ -1,5 +1,14 @@
 # @effect/schema
 
+## 0.63.2
+
+### Patch Changes
+
+- [#2221](https://github.com/Effect-TS/effect/pull/2221) [`c035972`](https://github.com/Effect-TS/effect/commit/c035972dfabdd3cb3372b5ab468aa2fd0d808f4d) Thanks [@tim-smart](https://github.com/tim-smart)! - ensure Schema.Class is compatible without strictNullCheck
+
+- Updated dependencies [[`a4a0006`](https://github.com/Effect-TS/effect/commit/a4a0006c7f19fc261df5cda16963d73457e4d6ac)]:
+  - effect@2.4.1
+
 ## 0.63.1
 
 ### Patch Changes
